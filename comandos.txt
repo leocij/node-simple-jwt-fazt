@@ -1,0 +1,8 @@
+
+https://www.youtube.com/watch?v=qckBlIfOnlA&feature=em-uploademail
+
+npm init -y
+
+npm i express mongoose jsonwebtoken bcryptjs
+
+npm i nodemon -D
